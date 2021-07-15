@@ -1,5 +1,13 @@
 # Teejusb's Travel Pad
- Guide to Build a Travel Pad with FSRs.
+Guide to Build a Travel Pad with FSRs.
+ 
+I had a couple of goals for this project:
+1. **Lightweight**
+    - All put together it's about 10 lbs. I carried it around from place to place without any issue.
+2. **Low Cost.**
+    - Less than $300 (not incl. Laser Cutting). If people have existing tools then this cost goes down quite a bit as well.
+3. **Toolless**
+    - You don't need any tools to get in and out of the pad once it's put together.
  
  <img src="images/15.JPG" height="400px" /></br><b>Check out pad in action [HERE](http://www.youtube.com/watch?v=_NM0flVgFBk)</b>
 ## Table of Contents
@@ -43,7 +51,7 @@
 
 > <sup>1</sup> Try and get the flattest piece of plywood from your local hardware store. I notice a lot my options were slightly warped so I tried picking out the one with the least warping. Even if it's slightly dinged/has holes, that's likely okay as we will be using the wood filler to smoothen it out (step 1 below).
 
-> <sup>2</sup> For the Polycarbonate, I personally got the edges chamfered and the corners cut which does cost extra (for a total of ~$56). This makes the panel identical to an ITG/DDR panel in shape. You can alternatively simply get 10 3⁄4" x 3 15⁄16" rectangles for about $6 per panel.
+> <sup>2</sup> For the polycarbonate, I personally got the edges chamfered and the corners cut which does cost extra (for a total of ~$56). This makes the panel identical to an ITG/DDR panel in shape. You can alternatively simply get 10 3⁄4" x 3 15⁄16" rectangles for about $6 per panel.
 
 > <sup>3</sup> I personally had access to a 3D printer so I only spent about $20 in materials. I don't know how much it costs to print these parts using a local service.
 
@@ -67,7 +75,7 @@
 
 ## Steps
  ### 1. Cutting the Pieces
- If you decide to laser cut your plywood, you can use <a href="files/travelpad.dxf">this DXF file</a> to get a quote from a local laser cutting service. To view this file, You can check out <a href="https://librecad.org/">LibreCAD</a> which is a free and open source software for CAD. Check out the image below to get an idea of what it looks like. It's designed to all fit on a 2' x 4' sheet of plywood. For me it cost about $160 to get it laser cut. Alternatively, if you have access to a hand saw/table saw, cutting the plywood youself could be considerably cheaper (potentially at the cost of time/precision).
+ If you decide to laser cut your plywood, you can use <a href="files/travelpad.dxf">this DXF file</a> to get a quote from a local laser cutting service. To view this file, You can download <a href="https://librecad.org/">LibreCAD</a> which is a free and open source software for CAD. Check out the image below to get an idea of what it looks like. It's designed to all fit on a 2' x 4' sheet of plywood. For me it cost about $160 to get it laser cut. Alternatively, if you have access to a hand saw/table saw, cutting the plywood youself could be considerably cheaper (potentially at the cost of time/precision).
  
 <p align="center"><img src="images/padcad.png" height="400px" /></p>
 
@@ -84,20 +92,20 @@ After your wood is cut but before putting things together, we will want to first
 ### 3. Building the Pad
 
 <p align="center"><img src="images/1.JPG" height="400px" /></br>Here is the base. Not much to say about this.</p>
-<p align="center"><img src="images/2.JPG" height="400px" /></br>Add on the corner triangles. First, wood glue two of the triangles together (hold tight with the clamps). Once it has dried and set, then attach it to the base using the wood glue. Repeat for each the remaining too corners </p>
-<p align="center"><img src="images/3.JPG" height="400px" /></br>Attach the walls. It is hugely important that you use clamps here to securely attach the walls to the base. If you don't you might run into issues with your <a href="https://clips.twitch.tv/AmazonianLaconicPineappleRlyTho-e3TrOF4Ut9JD_z1f">pad breaking</a> and you'll have to reglue it down the line.</p>
-<p align="center"><img src="images/4.JPG" height="400px" /></br>Attach the 4 center triangles. This will be used to path the wires for the travel pad. It might be hard to get the clamps in place for this so I ended up just using some heavy weight. Make sure you measure before attaching it. It should be placed in a 11"x11" square centered with respect to the pad base.</p>
+<p align="center"><img src="images/2.JPG" height="400px" /></br>Add on the corner triangles. First, wood glue two of the triangles together (hold tight with the clamps). Once it has dried and set, then attach it to the base using the wood glue and clamps. Repeat for each the remaining two corners </p>
+<p align="center"><img src="images/3.JPG" height="400px" /></br>Attach the walls. It is </b>VERY</b> important that you use clamps here to securely attach the walls to the base. If you don't you might run into issues with your <a href="https://clips.twitch.tv/AmazonianLaconicPineappleRlyTho-e3TrOF4Ut9JD_z1f">pad breaking</a> and you'll have to reglue it down the line.</p>
+<p align="center"><img src="images/4.JPG" height="400px" /></br>Attach the 4 center triangles. This will be used to path the wires for the travel pad while adding support for the wooden square. It might be hard to get the clamps in place for this so I ended up just using some heavy weights. Make sure you measure before attaching it. It should be placed in a 11" x 11" square centered with respect to the pad base.</p>
 <p align="center"><img src="images/5.JPG" height="400px" /></br>A (slightly) better view.</p>
-<p align="center"><img src="images/6.JPG" height="400px" /></br>Just checking the positioning of the square wood piece. The 4 triangles that it sits on top of will poke out from under the center squre. This is intentional as the metal panel will sit on top of square wood piece, which will then give it the full 11"x11" size. <b>Do NOT attach the square piece to the base.</b></p>
-<p align="center"><img src="images/7.JPG" height="400px" /></br>Smoothen out the edges. It's possible some things might have been slightly misaligned when gluing things together. You can correct some of this by using the woodfiller and sanding it down to a smooth finish.</p>
+<p align="center"><img src="images/6.JPG" height="400px" /></br>Check the positioning of the square wood piece. The 4 triangles that it sits on top of will poke out from under the center squre. This is intentional as the metal panel will sit on top of square wood piece, which will then give it the full 11"x11" size. <b>Do NOT attach the square piece to the base.</b></p>
+<p align="center"><img src="images/7.JPG" height="400px" /></br>Smoothen the edges. It's possible some things might have been slightly misaligned when gluing things together. You can correct some of this by using the wood filler and sanding it down to a smooth finish.</p>
 <p align="center"><img src="images/8.JPG" height="400px" /></br>Once you think your base is sanded and ready, you can then prime the two large pieces. Let it dry, flip it over, and then prime the bottom as well.</p>
 <p align="center"><img src="images/9.JPG" height="400px" /></br>Once the primer has dried, you can mask off the insides and prep it for the main paint job.</p>
-<p align="center"><img src="images/10.JPG" height="400px" /></br>Paint the two large pieces, let it dry, flip it over, and paint the bottom as well/</p>
+<p align="center"><img src="images/10.JPG" height="400px" /></br>Paint the two large pieces, let it dry, flip it over, and paint the bottom as well.</p>
 <p align="center"><img src="images/11.JPG" height="400px" /></br>Once the paint has dried, remove the masking tape and check out your paint job.</p>
 <p align="center"><img src="images/12.JPG" height="400px" /></br>Attach the 3D printed bits for the insides. I superglued them, but I did notice that sometimes it would come off and I needed to reglue it. Not really a problem, just something to note.</p>
 <p align="center"><img src="images/13.JPG" height="400px" /></br>Check to make sure the center panel fits.</p>
-<p align="center"><img src="images/14.JPG" height="400px" /></br>Add the wiring. Check out my <a href="https://www.github.com/teejusb/fsr">FSR guide</a> on how setup the wiring and flashing the software. Notice the two strips of Dual Lock Fasteners. This is used to to attach the square wood piece to the base while still allowing it to be removable. I use the same fastener to attach the brackets that hold the panel in. As a fair warning, it's pretty hard to pry off the square wood piece with this method which could be seen as both good and bad. If you want to make it easier make it easier, one could use smaller lengths of the fastener so there's less force holding it together.</p>
-<p align="center"><img src="images/15.JPG" height="400px" /><br>Pop in the panels! One thing to note is that while the brackets do hold the panel in, they seem a bit fragile and seem to come off often. I did notice that duct tape did do a better job but that seems a bit jank so I do intend to come up with a better solution soon.</p>
+<p align="center"><img src="images/14.JPG" height="400px" /></br>Add the wiring. Check out my <a href="https://www.github.com/teejusb/fsr">FSR guide</a> on how to set up the wiring and flashing the software. Notice the two strips of Dual Lock Fasteners. This is used to to attach the square wood piece to the base while still allowing it to be removable. I use the same fastener to attach the brackets that hold the panel in. As a fair warning, it's pretty hard to pry off the square wood piece with this method which could be seen as both good and bad. If you want to make it easier make it easier, one could use smaller lengths of the fastener so there's less force holding it together.</p>
+<p align="center"><img src="images/15.JPG" height="400px" /><br>Pop in the panels! I used the Dual Lock Fasteners to hold the brackets as well. One thing to note is that while the brackets do hold the panel in, they seem a bit fragile and seem to come off often. I did notice that duct tape did do a better job but that seems a bit jank so I do intend to come up with a better solution soon.</p>
 
 ### 4. Adding LEDs
 
