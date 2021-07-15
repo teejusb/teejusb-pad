@@ -27,7 +27,7 @@ I had a couple of goals for this project:
 
 ## Bill of Materials
 
-I personally paid about $300 for everything (incl. Laser Cutting) as I already had access to some existing tools/materials. If you're starting from nothing, refer to the table below for the expected cost of the project.
+I personally paid about **$300** for everything (incl. Laser Cutting) as I already had access to some existing tools/materials. If you're starting from nothing, refer to the table below for the expected cost of the project.
 
 |   Part           |Price          |
 |------------------|---------------|
