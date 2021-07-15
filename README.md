@@ -9,7 +9,7 @@
   - [Bill of Materials](#bill-of-materials)
   - [Parts to 3D Print](#parts-to-3d-print)
   - [Steps](#steps)
-    - [Cutting the Plywood](#1-cutting-the-plywood)
+    - [Cutting the Pieces](#1-cutting-the-pieces)
     - [Before the Build](#2-before-the-build)
     - [Building the Pad](#3-building-the-pad)
 ## Credits
@@ -56,10 +56,16 @@
 |[**Panel Brackets**](https://www.tinkercad.com/things/keSFPU1u1Jc)|Used to hold the panel in and prevent it from popping out. The design is fairly fragile, and duct tape does perform just as well|
 
 ## Steps
- ### 1. Cutting the Plywood
+ ### 1. Cutting the Pieces
  If you decide to Laser Cut your plywood, you can use <a href="files/travelpad.dxf">this DXF</a> file to get a quote from a local laser cutting service. To view this file, You can check out <a href="https://librecad.org/">LibreCAD</a> which is a free software for CAD. Check out the image below to see what it looks like. For me it cost about $160 to get it laser cut. If you have access to a saw/table saw, cutting your plywood could be considerably cheaper (potentially at the cost of time/precision).
  
 <p align="center"><img src="images/padcad.png" height="400px" /></p>
+
+For the polycarbonate you have two options.
+   1. You could simply get 10 3⁄4" x 3 15⁄16" rectangles to save some of the cost.
+   2. To make it more accurate to DDR/ITG refer to the image below for the dimensions. There is also approximately a 1mm chamfer which will make the edges not be so sharp.
+
+<p align="center"><img src="images/panel.png"/></p>
     
 ### 2. Before the Build
 
