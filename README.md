@@ -22,6 +22,7 @@
 |[2'x4' 1/2" Plywood](https://www.homedepot.com/p/1-2-in-x-2-ft-x-4-ft-Radiata-Pine-Plywood-Actual-0-469in-x-23-75-in-x-47-75-in-414715/313354418)|$25|
 |[3/8" Polycarbonate](https://www.tapplastics.com/product/plastics/cut_to_size_plastic/polycarbonate_sheets/516)|$24 - $56<sup>1</sup>|
 |[Teensy 4.0](https://www.pjrc.com/store/teensy40_pins.html) (or equivalent)|$25|
+|[FSR 406](https://buyinterlinkelectronics.com/collections/new-standard-force-sensors/products/fsr-model-406?variant=31639756210313) (or equivalent)|$20|
 |[Wires](https://www.amazon.com/gp/product/B07TX6BX47)|$15|
 |[30 Row Breadboard](https://www.amazon.com/dp/B07PCJP9DY)|$6|
 |[Wood Glue](https://www.amazon.com/dp/B001N7X1UA)|$3|
@@ -36,7 +37,7 @@
 |Various 3D Prints|$20-???<sup>2</sup>|
 |Wood Laser Cutting Service<sup>3</sup>|$160|
 |||
-|**Total**|**$230-262** (Not incl. Laser Cutting)|
+|**Total**|**$250-282** (Not incl. Laser Cutting)|
 
 > <sup>1</sup> For the Polycarbonate, I personally got the edges chamfered and the corners cut for about $56. This makes the panel identical to an ITG/DDR panel in shape. You can alternatively simply get 10 3⁄4" x 3 15⁄16" rectangles for about $6 per panel.
 
