@@ -27,3 +27,23 @@
 > <sup>2</sup> I personally had access to a 3D printer so I only spent about $20 in materials. I don't know how much it costs to print these parts using a local service.
 
 > <sup>3</sup> While I don't think laser cutting the wood was needed and one could cut it on their own, I opted to pay for the service for the precision.
+
+# Steps
+<p align="center">
+    <img src="images/padcad.png" height="400px" /></br>
+    <img src="images/1.JPG" height="400px" /></br>
+    <img src="images/2.JPG" height="400px" /></br>
+    <img src="images/3.JPG" height="400px" />
+    <img src="images/4.JPG" height="400px" /></br>
+    <img src="images/5.JPG" height="400px" /></br>
+    <img src="images/6.JPG" height="400px" /></br>
+    <img src="images/7.JPG" height="400px" /></br>
+    <img src="images/8.JPG" height="400px" /></br>
+    <img src="images/9.JPG" height="400px" /></br>
+    <img src="images/10.JPG" height="400px" /></br>
+    <img src="images/11.JPG" height="400px" /></br>
+    <img src="images/12.JPG" height="400px" /></br>
+    <img src="images/13.JPG" height="400px" /></br>
+    <img src="images/14.JPG" height="400px" /></br>
+    <img src="images/15.JPG" height="400px" /></br>
+</p>
