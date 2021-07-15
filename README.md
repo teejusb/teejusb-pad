@@ -12,7 +12,7 @@
     - [Cutting the Pieces](#1-cutting-the-pieces)
     - [Before the Build](#2-before-the-build)
     - [Building the Pad](#3-building-the-pad)
-  - [Adding LEDs](#adding-leds)
+  - [Adding LEDs](#4-adding-leds)
 ## Credits
  - To **dj505** as I used their [build log](https://imgur.com/a/IuHijaS) as the main basis when creating this travel pad.
  - To **4199** as the original design was theirs.
