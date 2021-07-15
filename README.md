@@ -99,6 +99,8 @@ After your wood is cut but before putting things together, we will want to first
 
 ### 3. Building the Pad
 
+Note that some of the pictures are slightly outdated as I had slightly modified the 3D printed parts (the files have been updated accordingly above). You should still be able to get a good idea of all the steps from the images below.
+
 <p align="center"><img src="images/1.JPG" height="400px" /></br>Here is the base. Not much to say about this.</p>
 <p align="center"><img src="images/2.JPG" height="400px" /></br>Add on the corner triangles. First, wood glue two of the triangles together (hold tight with the clamps). Once it has dried and set, then attach it to the base using the wood glue and clamps. Repeat for each the remaining two corners </p>
 <p align="center"><img src="images/3.JPG" height="400px" /></br>Attach the walls. It is </b>VERY</b> important that you use clamps here to securely attach the walls to the base. If you don't you might run into issues with your <a href="https://clips.twitch.tv/AmazonianLaconicPineappleRlyTho-e3TrOF4Ut9JD_z1f">pad breaking</a> and you'll have to reglue it down the line.</p>
