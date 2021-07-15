@@ -20,8 +20,8 @@
 ## Bill of Materials
 |   Part           |Price          |
 |------------------|---------------|
-|[2'x4' 1/2" Plywood](https://www.homedepot.com/p/1-2-in-x-2-ft-x-4-ft-Radiata-Pine-Plywood-Actual-0-469in-x-23-75-in-x-47-75-in-414715/313354418)|$25|
-|[3/8" Polycarbonate](https://www.tapplastics.com/product/plastics/cut_to_size_plastic/polycarbonate_sheets/516)|$24 - $56<sup>1</sup>|
+|[2'x4' 1/2" Plywood](https://www.homedepot.com/p/1-2-in-x-2-ft-x-4-ft-Radiata-Pine-Plywood-Actual-0-469in-x-23-75-in-x-47-75-in-414715/313354418)<sup>1</sup>|$25|
+|[3/8" Polycarbonate](https://www.tapplastics.com/product/plastics/cut_to_size_plastic/polycarbonate_sheets/516)|$24 - $56<sup>2</sup>|
 |[Teensy 4.0](https://www.pjrc.com/store/teensy40_pins.html) (or equivalent)|$25|
 |[4 x FSR 406](https://buyinterlinkelectronics.com/collections/new-standard-force-sensors/products/fsr-model-406?variant=31639756210313)|$30|
 |[Wires](https://www.amazon.com/gp/product/B07TX6BX47)|$15|
@@ -35,22 +35,24 @@
 |[Spray Paint](https://www.amazon.com/dp/B000PIK1YC)|$9|
 |[Masking Tape](https://www.amazon.com/dp/B001EJMS4M)|$11|
 |[Dual Lock Fastener](https://www.amazon.com/dp/B004V3RALO)|$20|
-|Various 3D Prints|$20-???<sup>2</sup>|
-|Center Metal Panel|$15-???<sup>3</sup>|
-|Wood Laser Cutting Service<sup>4</sup>|$160|
+|Various 3D Prints|$20-???<sup>3</sup>|
+|Center Metal Panel|$15-???<sup>4</sup>|
+|Wood Laser Cutting Service<sup>5</sup>|$160|
 |||
 |**Total**|**$275-$307** (Not incl. Laser Cutting)|
 
-> <sup>1</sup> For the Polycarbonate, I personally got the edges chamfered and the corners cut which does cost extra (for a total of ~$56). This makes the panel identical to an ITG/DDR panel in shape. You can alternatively simply get 10 3⁄4" x 3 15⁄16" rectangles for about $6 per panel.
+> <sup>1</sup> Try and get the flattest piece of plywood from your local hardware store. I notice a lot my options were slightly warped so I tried picking out the one with the least warping. Even if it's slightly dinged/has holes, that's likely okay as we will be using the wood filler to smoothen it out (step 1 below).
 
-> <sup>2</sup> I personally had access to a 3D printer so I only spent about $20 in materials. I don't know how much it costs to print these parts using a local service.
+> <sup>2</sup> For the Polycarbonate, I personally got the edges chamfered and the corners cut which does cost extra (for a total of ~$56). This makes the panel identical to an ITG/DDR panel in shape. You can alternatively simply get 10 3⁄4" x 3 15⁄16" rectangles for about $6 per panel.
 
-> <sup>3</sup> The pad is designed to use a DDR/ITG/PIU square metal panel which fits perfectly on top of the 10 7⁄8" x 10 7⁄8" square wood piece. You have the following options on how to procure one some replacement options:
+> <sup>3</sup> I personally had access to a 3D printer so I only spent about $20 in materials. I don't know how much it costs to print these parts using a local service.
+
+> <sup>4</sup> The pad is designed to use a DDR/ITG/PIU square metal panel which fits perfectly on top of the 10 7⁄8" x 10 7⁄8" square wood piece. You have the following options on how to procure one some replacement options:
 > 1. Buy one from someone else/Andamiro or use one from an existing pad. I personally used one from my existing machine.
 > 2. Bend metal yourself. I believe they are 1⁄8" thick 304 Stainless Steel. If you make the main center part 11" x 11" and the edges less than 1⁄2" tall (3⁄8" or 1⁄4" should work) then that should fit the square wood piece.
 > 3. Replace the square wood piece with another material (e.g. polycarbonate). If you go this route you'd want it to be the full 11" x 11" (instead of the 10 7⁄8" x 10 7⁄8") as you won't be adding a metal piece on top of it.
 
-> <sup>4</sup> While I don't think laser cutting the wood was needed and one could cut it on their own, I opted to pay for the service for the precision.
+> <sup>5</sup> While I don't think laser cutting the wood was needed and one could cut it on their own, I opted to pay for the service for the precision.
 
 ## Parts to 3D Print
 
@@ -65,19 +67,19 @@
 
 ## Steps
  ### 1. Cutting the Pieces
- If you decide to Laser Cut your plywood, you can use <a href="files/travelpad.dxf">this DXF</a> file to get a quote from a local laser cutting service. To view this file, You can check out <a href="https://librecad.org/">LibreCAD</a> which is a free software for CAD. Check out the image below to see what it looks like. For me it cost about $160 to get it laser cut. If you have access to a hand saw/table saw, cutting your plywood could be considerably cheaper (potentially at the cost of time/precision).
+ If you decide to laser cut your plywood, you can use <a href="files/travelpad.dxf">this DXF file</a> to get a quote from a local laser cutting service. To view this file, You can check out <a href="https://librecad.org/">LibreCAD</a> which is a free and open source software for CAD. Check out the image below to get an idea of what it looks like. It's designed to all fit on a 2' x 4' sheet of plywood. For me it cost about $160 to get it laser cut. Alternatively, if you have access to a hand saw/table saw, cutting the plywood youself could be considerably cheaper (potentially at the cost of time/precision).
  
 <p align="center"><img src="images/padcad.png" height="400px" /></p>
 
 For the polycarbonate you have two options.
-   1. You could simply get 10 3⁄4" x 3 15⁄16" rectangles to save some of the cost.
-   2. To make it more accurate to DDR/ITG refer to the image below for the dimensions. There is also approximately a 1mm chamfer which will make the edges not be so sharp.
+   1. You could simply get four 10 3⁄4" x 3 15⁄16" rectangles to save some of the cost.
+   2. To make it more accurate to DDR/ITG refer to the image below for the dimensions. There is also approximately a 1mm chamfer which will make the edges not be so sharp (although you can probably chamfer/sand it yourself).
 
 <p align="center"><img src="images/panel.png"/></p>
     
 ### 2. Before the Build
 
-After your wood is cut and before putting things together, we will first smooth out your pieces. It's possible that your plywood has some holes or uneven surfaces. You can use the wood filler and sand paper to try and smoothen out your surfaces. This is mostly important for the larger pieces (the base and the wooden square). Simply add some wood filler to the affected areas, smoothen it out with the putty knife, and let it sit until it's dry. Once it is, then sand the surface using 100 and then 150 grit sandpaper.
+After your wood is cut but before putting things together, we will want to first smoothen out your pieces. It's possible that your plywood has some holes and/or uneven surfaces. You can use the wood filler and sand paper to try and even them out. This is mostly important for the larger pieces (the base and the wooden square). Simply add some wood filler to the affected areas, smoothen it out with the putty knife, and let it sit until it's dry. Once it is, then sand the surface using 100 and then 150 grit sandpaper.
 
 ### 3. Building the Pad
 
