@@ -12,9 +12,10 @@
     - [Cutting the Pieces](#1-cutting-the-pieces)
     - [Before the Build](#2-before-the-build)
     - [Building the Pad](#3-building-the-pad)
+  - [Adding LEDs](#adding-leds)
 ## Credits
- - To **dj505** as I used their [build log](https://imgur.com/a/IuHijaS) as the main basis for my own travel pad.
- - To **4199** as I believe the original design was theirs.
+ - To **dj505** as I used their [build log](https://imgur.com/a/IuHijaS) as the main basis when creating this travel pad.
+ - To **4199** as the original design was theirs.
 
 ## Bill of Materials
 |   Part           |Price          |
@@ -85,13 +86,17 @@ After your wood is cut and before putting things together, we will first smooth 
 <p align="center"><img src="images/3.JPG" height="400px" /></br>Attach the walls. It is hugely important that you use clamps here to securely attach the walls to the base. If you don't you might run into issues with your <a href="https://clips.twitch.tv/AmazonianLaconicPineappleRlyTho-e3TrOF4Ut9JD_z1f">pad breaking</a> and you'll have to reglue it down the line.</p>
 <p align="center"><img src="images/4.JPG" height="400px" /></br>Attach the 4 center triangles. This will be used to path the wires for the travel pad. It might be hard to get the clamps in place for this so I ended up just using some heavy weight. Make sure you measure before attaching it. It should be placed in a 11"x11" square centered with respect to the pad base.</p>
 <p align="center"><img src="images/5.JPG" height="400px" /></br>A (slightly) better view.</p>
-<p align="center"><img src="images/6.JPG" height="400px" /></br>Just checking the positioning of the square wood piece. The 4 triangles that it sits on top of will poke out from under the center squre. This is intentional as the metal panel which will sit on top of square wood piece, which will then give it the full 11"x11" size. <b>Do NOT attach the square piece to the base.</b></p>
-<p align="center"><img src="images/7.JPG" height="400px" /></br>Smoothen out the edges. It's possible some things might have been slightly misaligned. You can correct some of this by using the woodfiller and sanding it down to a smooth finish.</p>
-<p align="center"><img src="images/8.JPG" height="400px" /></br>Once you think your base is sanded and ready, we can prime the two large pieces. Let it dry, flip it over, and then prime the bottom as well.</p>
+<p align="center"><img src="images/6.JPG" height="400px" /></br>Just checking the positioning of the square wood piece. The 4 triangles that it sits on top of will poke out from under the center squre. This is intentional as the metal panel will sit on top of square wood piece, which will then give it the full 11"x11" size. <b>Do NOT attach the square piece to the base.</b></p>
+<p align="center"><img src="images/7.JPG" height="400px" /></br>Smoothen out the edges. It's possible some things might have been slightly misaligned when gluing things together. You can correct some of this by using the woodfiller and sanding it down to a smooth finish.</p>
+<p align="center"><img src="images/8.JPG" height="400px" /></br>Once you think your base is sanded and ready, you can then prime the two large pieces. Let it dry, flip it over, and then prime the bottom as well.</p>
 <p align="center"><img src="images/9.JPG" height="400px" /></br>Once the primer has dried, you can mask off the insides and prep it for the main paint job.</p>
 <p align="center"><img src="images/10.JPG" height="400px" /></br>Paint the two large pieces, let it dry, flip it over, and paint the bottom as well/</p>
 <p align="center"><img src="images/11.JPG" height="400px" /></br>Once the paint has dried, remove the masking tape and check out your paint job.</p>
-<p align="center"><img src="images/12.JPG" height="400px" /></br>Attach the 3D printed bits for the insides. I superglued them, but I did notice that sometimes it would come off and I needed to reglue it.</p>
+<p align="center"><img src="images/12.JPG" height="400px" /></br>Attach the 3D printed bits for the insides. I superglued them, but I did notice that sometimes it would come off and I needed to reglue it. Not really a problem, just something to note.</p>
 <p align="center"><img src="images/13.JPG" height="400px" /></br>Check to make sure the center panel fits.</p>
-<p align="center"><img src="images/14.JPG" height="400px" /></br>Add the wiring. Check out my <a href="https://www.github.com/teejusb/fsr">FSR guide</a> on how setup the wiring and flashing the software. Notice the two strips of Dual Lock Fasteners. This is used to to attach the square wood piece to the base while still allowing it to be removable. I use the same fastener to attach the brackets that hold the panel in.</p>
-<p align="center"><img src="images/15.JPG" height="400px" /><br>Pop in the panels! One thing to note is that while the brackets do hold the panel in, the seem a bit fragile and seem to pop off fairly easily. I did notice that duct tape did do a better job but that seems a bit jank so I do intend to come up with a better solution soon.</p>
+<p align="center"><img src="images/14.JPG" height="400px" /></br>Add the wiring. Check out my <a href="https://www.github.com/teejusb/fsr">FSR guide</a> on how setup the wiring and flashing the software. Notice the two strips of Dual Lock Fasteners. This is used to to attach the square wood piece to the base while still allowing it to be removable. I use the same fastener to attach the brackets that hold the panel in. As a fair warning, it's pretty hard to pry off the square wood piece with this method which could be seen as both good and bad. If you want to make it easier make it easier, one could use smaller lengths of the fastener so there's less force holding it together.</p>
+<p align="center"><img src="images/15.JPG" height="400px" /><br>Pop in the panels! One thing to note is that while the brackets do hold the panel in, they seem a bit fragile and seem to come off often. I did notice that duct tape did do a better job but that seems a bit jank so I do intend to come up with a better solution soon.</p>
+
+### 4. Adding LEDs
+
+Coming soon! The pad is designed to also have LEDs but at the moment I haven't completed that bit and the code doesn't have FastLED support out of the box.
