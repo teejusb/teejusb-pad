@@ -45,7 +45,7 @@
 > <sup>2</sup> I personally had access to a 3D printer so I only spent about $20 in materials. I don't know how much it costs to print these parts using a local service.
 
 > <sup>3</sup> The pad is designed to use a DDR/ITG/PIU square metal panel which fits perfectly on top of the 10 7⁄8" x 10 7⁄8" square wood piece. You have the following options on how to procure one and some replacements:
-> 1. Buy/Use one from an existing pad or Andamiro. I personally used one from my existing machine.
+> 1. Buy/Use one from an existing pad or straight from Andamiro. I personally used one from my existing machine.
 > 2. Bend metal yourself. I believe they are 1⁄8" thick 304 Stainless Steel. If you make the main center part 11" x 11" and the edges less than 1⁄2" tall (3⁄8" or 1⁄4" should work) then that should fit the square wood piece.
 > 3. Replace the square wood piece with another material (e.g. Polycarbonate). If you go this route you'd want it to be the full 11" x 11" (instead of the 10 7⁄8" x 10 7⁄8") as you won't be adding a metal piece on top of it.
 
