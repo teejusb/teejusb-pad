@@ -9,7 +9,7 @@ I had a couple of goals for this project:
 3. **Toolless**
     - You don't need any tools to get in and out of the pad once it's put together.
  
- <img src="images/15.JPG" height="400px" /></br><b>Check out pad in action <a href="http://www.youtube.com/watch?v=_NM0flVgFBk" target="_blank">HERE</a></b>
+ <img src="images/15.JPG" height="400px" /></br><b>Check out pad in action [HERE](http://www.youtube.com/watch?v=_NM0flVgFBk){:target="_blank"}</a></b>
 ## Table of Contents
 - [Teejusb's Travel Pad](#teejusbs-travel-pad)
   - [Table of Contents](#table-of-contents)
