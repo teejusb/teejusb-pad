@@ -26,6 +26,9 @@ I had a couple of goals for this project:
  - To **4199** as the original design was theirs.
 
 ## Bill of Materials
+
+I personally paid about $300 for everything (incl. Laser Cutting) as I already had access to some existing tools/materials. If you're starting from nothing, refer to the table below for the expected cost of the project.
+
 |   Part           |Price          |
 |------------------|---------------|
 |[2'x4' 1/2" Plywood](https://www.homedepot.com/p/1-2-in-x-2-ft-x-4-ft-Radiata-Pine-Plywood-Actual-0-469in-x-23-75-in-x-47-75-in-414715/313354418)<sup>1</sup>|$25|
