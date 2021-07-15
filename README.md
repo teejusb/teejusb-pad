@@ -3,15 +3,15 @@
  
  <img src="images/15.JPG" height="400px" /></br><b>Check out pad in action [HERE](http://www.youtube.com/watch?v=_NM0flVgFBk)</b>
 ## Table of Contents
-- [Teejusb's Travel Pad](#teejusb-pad)
+- [Teejusb's Travel Pad](#teejusbs-travel-pad)
   - [Table of Contents](#table-of-contents)
   - [Credits](#credits)
   - [Bill of Materials](#bill-of-materials)
   - [Parts to 3D Print](#parts-to-3d-print)
   - [Steps](#steps)
-    - [Cutting the Plywood](#cutting-the-plywood)
-    - [Before the Build](#before-the-build)
-    - [Building the Pad](#building-the-pad)
+    - [Cutting the Plywood](#1-cutting-the-plywood)
+    - [Before the Build](#2-before-the-build)
+    - [Building the Pad](#3-building-the-pad)
 ## Credits
  - To **dj505** as I used their [build log](https://imgur.com/a/IuHijaS) as the main basis for my own travel pad.
  - To **4199** as I believe the original design was theirs.
