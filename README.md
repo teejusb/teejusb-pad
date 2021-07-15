@@ -1,6 +1,22 @@
-# teejusb-pad
- Guide to Build a Travel Pad with FSRs
-# Bill of Materials
+# Teejusb's Travel Pad
+ Guide to Build a Travel Pad with FSRs.
+ 
+ <img src="images/15.JPG" height="400px" /></br><b>Check out pad in action [HERE](http://www.youtube.com/watch?v=_NM0flVgFBk)</b>
+## Table of Contents
+- [Teejusb's Travel Pad](#teejusb-pad)
+  - [Table of Contents](#table-of-contents)
+  - [Credits](#credits)
+  - [Bill of Materials](#bill-of-materials)
+  - [Parts to 3D Print](#parts-to-3d-print)
+  - [Steps](#steps)
+    - [Cutting the Plywood](#cutting-the-plywood)
+    - [Before the Build](#before-the-build)
+    - [Building the Pad](#building-the-pad)
+## Credits
+ - To **dj505** as I used their [build log](https://imgur.com/a/IuHijaS) as the main basis for my own travel pad.
+ - To **4199** as I believe the original design was theirs.
+
+## Bill of Materials
 |   Part           |Price          |
 |------------------|---------------|
 |[2'x4' 1/2" Plywood](https://www.homedepot.com/p/1-2-in-x-2-ft-x-4-ft-Radiata-Pine-Plywood-Actual-0-469in-x-23-75-in-x-47-75-in-414715/313354418)|$25|
@@ -28,7 +44,18 @@
 
 > <sup>3</sup> While I don't think laser cutting the wood was needed and one could cut it on their own, I opted to pay for the service for the precision.
 
-# Steps
+## Parts to 3D Print
+
+|   Part           |Description    |
+|------------------|---------------|
+|[**The Box**](https://www.tinkercad.com/things/bpEsTf4kXBO)|Houses all the electronics|
+|**FSR Blocks (Comes in [1⁄2"](https://www.tinkercad.com/things/cAF0ry7Ph2o) and [5⁄8"](https://www.tinkercad.com/things/kU1zQFTylWj) variants)**|Used to attach the FSRs. If you like your panels higher by default and want to use less tape for the height, you can get the 5⁄8" variant|
+|**Front Brackets (Comes in [1⁄2"](https://www.tinkercad.com/things/evKB2N12mK5) and [5⁄8"](https://www.tinkercad.com/things/hcPSjkuzODB) variants)**|Same idea as above. Use the same height that you chose for the FSR blocks above. This part is not necessary if you have rectangular panels.|
+|[**Back Brackets**](https://www.tinkercad.com/things/07s7Wb1h3cf)|Used to support the backside of the panels. If you have rectangular panels, then print this part twice so you can also use this to support the frontside.|
+|[**LED Diffusers**](https://www.tinkercad.com/things/8S0zVbZenex)|This is used to both add further support for the backside of the panels, while also allowing one to diffuse LED strips if one would like to add it to the travel pad. This piece is optional.|
+|[**Panel Brackets**](https://www.tinkercad.com/things/keSFPU1u1Jc)|Used to hold the panel in and prevent it from popping out. The design is fairly fragile, and duct tape does perform just as well|
+
+## Steps
  ### 1. Cutting the Plywood
  If you decide to Laser Cut your plywood, you can use <a href="files/travelpad.dxf">this DXF</a> file to get a quote from a local laser cutting service. To view this file, You can check out <a href="https://librecad.org/">LibreCAD</a> which is a free software for CAD. Check out the image below to see what it looks like. For me it cost about $160 to get it laser cut. If you have access to a saw/table saw, cutting your plywood could be considerably cheaper (potentially at the cost of time/precision).
  
@@ -38,7 +65,7 @@
 
 After your wood is cut and before putting things together, we will first smooth out your pieces. It's possible that your plywood has some holes or uneven surfaces. You can use the wood filler and sand paper to try and smoothen out your surfaces. This is mostly important for the larger pieces (the base and the wooden square). Simply add some wood filler to the affected areas, smoothen it out with the putty knife, and let it sit until it's dry. Once it is, then sand the surface using 100 and then 150 grit sandpaper.
 
-### 3. Starting the Build
+### 3. Building the Pad
 
 <p align="center"><img src="images/1.JPG" height="400px" /></br>Here is the base. Not much to say about this.</p>
 <p align="center"><img src="images/2.JPG" height="400px" /></br>Add on the corner triangles. First, wood glue two of the triangles together (hold tight with the clamps). Once it has dried and set, then attach it to the base using the wood glue. Repeat for each the remaining too corners </p>
