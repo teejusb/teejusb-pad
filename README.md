@@ -41,7 +41,7 @@
 |||
 |**Total**|**$275-$307** (Not incl. Laser Cutting)|
 
-> <sup>1</sup> For the Polycarbonate, I personally got the edges chamfered and the corners cut for about $56. This makes the panel identical to an ITG/DDR panel in shape. You can alternatively simply get 10 3⁄4" x 3 15⁄16" rectangles for about $6 per panel.
+> <sup>1</sup> For the Polycarbonate, I personally got the edges chamfered and the corners cut which does cost extra (for a total of ~$56). This makes the panel identical to an ITG/DDR panel in shape. You can alternatively simply get 10 3⁄4" x 3 15⁄16" rectangles for about $6 per panel.
 
 > <sup>2</sup> I personally had access to a 3D printer so I only spent about $20 in materials. I don't know how much it costs to print these parts using a local service.
 
