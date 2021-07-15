@@ -2,8 +2,9 @@
 Guide to Build a Travel Pad with FSRs.
  
 I had a couple of goals for this project:
-1. **Lightweight**
-    - All put together it's about 10 lbs. I carried it around from place to place without any issue.
+1. **Lightweight/Portable**
+    - All put together it's a bit over 10 lbs. I carried it around from place to place without issue.
+    - It has a 20" x 20" footprint so not too bulky.
 2. **Low Cost (Relatively)**
     - Less than $300 (not incl. Laser Cutting). If people have existing tools then this cost goes down quite a bit as well.
 3. **Toolless**
