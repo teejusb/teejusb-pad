@@ -35,15 +35,21 @@
 |[Masking Tape](https://www.amazon.com/dp/B001EJMS4M)|$11|
 |[Dual Lock Fastener](https://www.amazon.com/dp/B004V3RALO)|$20|
 |Various 3D Prints|$20-???<sup>2</sup>|
-|Wood Laser Cutting Service<sup>3</sup>|$160|
+|Center Metal Panel|$15-???<sup>3</sup>|
+|Wood Laser Cutting Service<sup>4</sup>|$160|
 |||
-|**Total**|**$260-292** (Not incl. Laser Cutting)|
+|**Total**|**$275-$307** (Not incl. Laser Cutting)|
 
 > <sup>1</sup> For the Polycarbonate, I personally got the edges chamfered and the corners cut for about $56. This makes the panel identical to an ITG/DDR panel in shape. You can alternatively simply get 10 3⁄4" x 3 15⁄16" rectangles for about $6 per panel.
 
 > <sup>2</sup> I personally had access to a 3D printer so I only spent about $20 in materials. I don't know how much it costs to print these parts using a local service.
 
-> <sup>3</sup> While I don't think laser cutting the wood was needed and one could cut it on their own, I opted to pay for the service for the precision.
+> <sup>3</sup> The pad is designed to use a DDR/ITG/PIU square metal panel which fits perfectly on top of the 10 7⁄8" x 10 7⁄8" square wood piece. You have the following options on how to procure one and some replacements:
+> 1. Buy/Use one from an existing pad or Andamiro. I personally used one from my existing machine.
+> 2. Bend metal yourself. I believe they are 1⁄8" thick 304 Stainless Steel. If you make the main center part 11" x 11" and the edges less than 1⁄2" tall (3⁄8" or 1⁄4" should work) then that should fit the square wood piece.
+> 3. Replace the square wood piece with another material (e.g. Polycarbonate). If you go this route you'd want it to be the full 11" x 11" (instead of the 10 7⁄8" x 10 7⁄8") as you won't be adding a metal piece on top of it.
+
+> <sup>4</sup> While I don't think laser cutting the wood was needed and one could cut it on their own, I opted to pay for the service for the precision.
 
 ## Parts to 3D Print
 
