@@ -57,7 +57,7 @@
 
 ## Steps
  ### 1. Cutting the Pieces
- If you decide to Laser Cut your plywood, you can use <a href="files/travelpad.dxf">this DXF</a> file to get a quote from a local laser cutting service. To view this file, You can check out <a href="https://librecad.org/">LibreCAD</a> which is a free software for CAD. Check out the image below to see what it looks like. For me it cost about $160 to get it laser cut. If you have access to a saw/table saw, cutting your plywood could be considerably cheaper (potentially at the cost of time/precision).
+ If you decide to Laser Cut your plywood, you can use <a href="files/travelpad.dxf">this DXF</a> file to get a quote from a local laser cutting service. To view this file, You can check out <a href="https://librecad.org/">LibreCAD</a> which is a free software for CAD. Check out the image below to see what it looks like. For me it cost about $160 to get it laser cut. If you have access to a hand saw/table saw, cutting your plywood could be considerably cheaper (potentially at the cost of time/precision).
  
 <p align="center"><img src="images/padcad.png" height="400px" /></p>
 
