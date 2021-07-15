@@ -81,7 +81,7 @@ I personally paid about **$300** for everything (incl. Laser Cutting) as I alrea
  ### 1. Cutting the Pieces
 If you decide to laser cut your plywood, you can use <a href="files/travelpad.dxf">this DXF file</a> to get a quote from a local laser cutting service. To view this file, You can download <a href="https://librecad.org/">LibreCAD</a> which is a free and open source software for CAD. Check out the image below to get an idea of what it looks like. It's designed to all fit on a 2' x 4' sheet of plywood. For me it cost about $160 to get it laser cut. Alternatively, if you have access to a hand saw/table saw, cutting the plywood youself could be considerably cheaper (potentially at the cost of time/precision).
  
-The DXF file actually has three extra pieces in the case someone doesn't want to 3D print "The Box" (which was actually my original design). The extra pieces are two longer walls and a small square cover. If you go that route, you will need to drill some extra holes. Because of that, I think it is preferred to print the box as I think it's a nicer and a more convenient design.
+The DXF file actually has three extra pieces in the case someone doesn't want to 3D print "The Box" (which was the initial plan). The extra pieces are the two longer walls and a small square cover. If you go that route, you will need to drill some extra holes for the wires. Because of that, I think it is preferred to print the box as I think it's a nicer and a more convenient design.
  
 <p align="center"><img src="images/padcad.png" height="400px" /></p>
 
