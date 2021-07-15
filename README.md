@@ -22,7 +22,7 @@
 |[2'x4' 1/2" Plywood](https://www.homedepot.com/p/1-2-in-x-2-ft-x-4-ft-Radiata-Pine-Plywood-Actual-0-469in-x-23-75-in-x-47-75-in-414715/313354418)|$25|
 |[3/8" Polycarbonate](https://www.tapplastics.com/product/plastics/cut_to_size_plastic/polycarbonate_sheets/516)|$24 - $56<sup>1</sup>|
 |[Teensy 4.0](https://www.pjrc.com/store/teensy40_pins.html) (or equivalent)|$25|
-|[FSR 406](https://buyinterlinkelectronics.com/collections/new-standard-force-sensors/products/fsr-model-406?variant=31639756210313) (or equivalent)|$20|
+|[FSR 406](https://buyinterlinkelectronics.com/collections/new-standard-force-sensors/products/fsr-model-406?variant=31639756210313)|$20|
 |[Wires](https://www.amazon.com/gp/product/B07TX6BX47)|$15|
 |[30 Row Breadboard](https://www.amazon.com/dp/B07PCJP9DY)|$6|
 |[Wood Glue](https://www.amazon.com/dp/B001N7X1UA)|$3|
