@@ -89,7 +89,7 @@ For the polycarbonate you have two options.
    1. You could simply get four 10 3⁄4" x 3 15⁄16" rectangles to save some of the cost.
    2. To make it more accurate to DDR/ITG refer to the image below for the dimensions. There is also approximately a 1mm chamfer which will make the edges not be so sharp (although you can probably chamfer/sand it yourself).
 
-The reason the panel isn't an exact 4" is because having some wiggle room I think is helpful, especially to prevent flex which affects the FSRs reading. You can add some tape to prevent it from moving around as well.
+The reason the panel isn't an exact 4" is because having some wiggle room I think is helpful. This prevents the body of the pad from flexing which would otherwise affect the FSR reading. You can always later add some tape on the outsides to prevent the panel from moving around as well (which you can see in the image below).
 
 <p align="center"><img src="images/panel.png"/></p>
     
