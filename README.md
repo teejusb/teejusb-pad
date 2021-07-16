@@ -71,7 +71,7 @@ I personally paid about **$300** for everything (incl. Laser Cutting) as I alrea
 |   Part           |Description    |
 |------------------|---------------|
 |[**The Box**](https://www.tinkercad.com/things/bpEsTf4kXBO)|Houses all the electronics|
-|**FSR Blocks (Comes in [1⁄2"](https://www.tinkercad.com/things/cAF0ry7Ph2o) and [5⁄8"](https://www.tinkercad.com/things/kU1zQFTylWj) variants)**|Used to attach the FSRs. If you like your panels flush with the center and want to use less tape for the adjusting height, you can get the 5⁄8" variant|
+|**FSR Blocks (Comes in [1⁄2"](https://www.tinkercad.com/things/cAF0ry7Ph2o) and [5⁄8"](https://www.tinkercad.com/things/kU1zQFTylWj) variants)**|Used to attach the FSRs. If you like your panels flush with the center and want to use less tape for adjusting the height, you can get the 5⁄8" variant|
 |**Front Brackets (Comes in [1⁄2"](https://www.tinkercad.com/things/evKB2N12mK5) and [5⁄8"](https://www.tinkercad.com/things/hcPSjkuzODB) variants)**|Same idea as above. Use the same height that you chose for the FSR blocks above. This part is not necessary if you have rectangular panels.|
 |[**Back Brackets**](https://www.tinkercad.com/things/07s7Wb1h3cf)|Used to support the backside of the panels. If you have rectangular panels, then print this part twice so you can also use this to support the frontside.|
 |[**LED Diffusers**](https://www.tinkercad.com/things/8S0zVbZenex)|This is used to both add further support for the backside of the panels, while also allowing one to diffuse LED strips if one would like to add it to the travel pad. If you're using this for LEDs, you'd want to print this with Clear PLA. This piece is optional.|
