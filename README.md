@@ -53,9 +53,9 @@ I personally paid about **$300** for everything (incl. Laser Cutting) as I alrea
 |||
 |**Total**|**$275-$307** (Not incl. Laser Cutting)|
 
-> <sup>1</sup> Try and get the flattest piece of plywood from your local hardware store. I notice a lot my options were slightly warped so I tried picking out the one with the least warping. Even if it's slightly dinged/has holes, that's likely okay as we will be using the wood filler to smoothen it out (step 1 below).
+> <sup>1</sup> Try and get the flattest piece of plywood from your local hardware store. I notice a lot my options were slightly warped so I tried picking out the one with the least warping. Even if it's slightly dinged/has holes, that's likely okay as we will be using the wood filler to smoothen it out (step 2 below).
 
-> <sup>2</sup> For the polycarbonate, I personally got the edges chamfered and the corners cut which does cost extra (for a total of ~$56). This makes the panel identical to an ITG/DDR panel in shape. You can alternatively simply get 10 3⁄4" x 3 15⁄16" rectangles for about $6 per panel.
+> <sup>2</sup> For the polycarbonate, I personally got the edges chamfered and the corners cut which does cost extra (for a total of ~$56). This makes the panel identical to an ITG/DDR panel in shape. You can alternatively simply get four 10 3⁄4" x 3 15⁄16" rectangles for about $6 per panel.
 
 > <sup>3</sup> I personally had access to a 3D printer so I only spent about $20 in materials. I don't know how much it costs to print these parts using a local service.
 
